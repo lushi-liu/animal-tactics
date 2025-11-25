@@ -1,4 +1,3 @@
-// src/components/Board.tsx
 "use client";
 
 const BOARD_SIZE = 8; // 8x8 board (like chess) for now
